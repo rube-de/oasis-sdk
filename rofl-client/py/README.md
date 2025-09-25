@@ -1,6 +1,6 @@
 # oasis-rofl-client
 
-[![PyPI version](https://badge.fury.io/py/oasis-rofl-client.svg)](https://badge.fury.io/py/oasis-rofl-client-rube)
+[![PyPI version](https://badge.fury.io/py/oasis-rofl-client-rube.svg)](https://badge.fury.io/py/oasis-rofl-client-rube)
 
 Python client SDK for Oasis ROFL.
 
