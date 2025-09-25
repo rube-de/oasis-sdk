@@ -1,5 +1,5 @@
 [project]
-name = "oasis-rofl-client"
+name = "oasis-rofl-client-rube"
 dynamic = ["version"]
 description = "Python client SDK for Oasis ROFL."
 readme = "README.md"
